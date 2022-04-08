@@ -1,5 +1,7 @@
 # BillysEscape
 Game for CS4076 Spring 2022
+Axel Tissinier
+https://github.com/axeltissinier/BillysEscape
 
 List of things done:
 Wordle
