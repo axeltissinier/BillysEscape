@@ -1,0 +1,46 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ressources/backgrounds/BGStartMenu.jpg</file>
+        <file>ressources/backgrounds/BGGame.jpg</file>
+        <file>ressources/items/imp.png</file>
+        <file>ressources/wordle_allowed_words.txt</file>
+        <file>ressources/wordle_possible_words.txt</file>
+        <file>ressources/ponderosa.ttf</file>
+        <file>gameicon.ico</file>
+        <file>ressources/backgrounds/DungeonER.jpg</file>
+        <file>ressources/backgrounds/blankCardRoP.png</file>
+        <file>ressources/backgrounds/testBG.png</file>
+        <file>ressources/items/abs.png</file>
+        <file>ressources/items/agi.png</file>
+        <file>ressources/items/armor.png</file>
+        <file>ressources/items/battleaxe.png</file>
+        <file>ressources/items/Boss.png</file>
+        <file>ressources/items/bossKeyZelda.png</file>
+        <file>ressources/items/bowMC.png</file>
+        <file>ressources/items/chest.png</file>
+        <file>ressources/items/cla.png</file>
+        <file>ressources/items/coin.png</file>
+        <file>ressources/items/dagger.png</file>
+        <file>ressources/items/hero.png</file>
+        <file>ressources/items/key.png</file>
+        <file>ressources/items/minecraftSkeleton.png</file>
+        <file>ressources/items/minecraftZombie.png</file>
+        <file>ressources/items/pants.png</file>
+        <file>ressources/items/sandal.png</file>
+        <file>ressources/items/snake.png</file>
+        <file>ressources/items/special.png</file>
+        <file>ressources/items/str.png</file>
+        <file>ressources/items/sunglasses.png</file>
+        <file>ressources/items/SwordAndShield.png</file>
+        <file>ressources/items/vit.png</file>
+        <file>ressources/items/bold.png</file>
+        <file>ressources/items/dmgpot.png</file>
+        <file>ressources/items/emptypot.png</file>
+        <file>ressources/items/feet.png</file>
+        <file>ressources/items/healpot.png</file>
+        <file>ressources/items/poisonpot.png</file>
+        <file>ressources/items/weakpot.png</file>
+        <file>ressources/items/stunpot.png</file>
+        <file>ressources/backgrounds/grey.png</file>
+    </qresource>
+</RCC>
